@@ -7,8 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adimas-Prakoso&theme=algolia" alt="Adimas-Prakoso" /></a> </p>
 
-- 🔭 I’m currently working on [ai-hub](https://github.com/Adimas-Prakoso/ai-hub)
-- 🌱 I’m currently learning **Python, PySide6**
+- 🔭 I’m currently working on **Nothing :v**
+
+- 🌱 I’m currently learning **Python, PySide6, Dart, Flutter**
 
 - 📫 How to reach me **adimas.prakoso090704@outlook.com**
 - ⚡ Fun fact **I'm a developer who is still learning and wants to master all programming languages**
