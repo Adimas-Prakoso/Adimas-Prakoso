@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Nothing :v**
 
-- 🌱 I’m currently learning **Python, PySide6, Dart, Flutter**
+- 🌱 I’m currently learning **Java, Dart, Flutter**
 
 - 📫 How to reach me **adimas.prakoso090704@outlook.com**
 - ⚡ Fun fact **I'm a developer who is still learning and wants to master all programming languages**
